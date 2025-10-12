@@ -1,4 +1,1 @@
-# -GroupProject-Buoi3
-
-Đăng sửa ở đây (A)
-
+Nội dung đúng của README.md
