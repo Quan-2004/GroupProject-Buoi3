@@ -1,0 +1,2 @@
+Ghi chú: hoàn thành setup 
+Cập nhật: đã push branch cá nhân thành công
